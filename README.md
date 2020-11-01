@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Project Image](/assets/projectimage.jpeg)
+![Project Image](/assets/projectimage.jpg)
 
 ### Table of Contents
 - [Description](#description)
