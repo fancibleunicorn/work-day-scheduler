@@ -1,5 +1,6 @@
 //Display Current Date at Top of Calendar
-
+var date = moment().format('dddd, MMMM Do YYYY');
+$("#currentDay").append(date);
 
 //Make Date Block's color-coded based on Past, Present, or Future
 
