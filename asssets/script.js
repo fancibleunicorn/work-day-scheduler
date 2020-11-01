@@ -130,7 +130,6 @@ checkTime();
 setInterval(checkTime, [60000]);
 
 
-//On time block click, enter an event into each time block
 
 //on save button click, save time block text to local storage
 
